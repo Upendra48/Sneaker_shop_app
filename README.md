@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+### Note 
+A prototype for (still on progress) now,and add features regularly
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sneaker_shop_1](https://github.com/Upendra48/Sneaker_shop_app/assets/122508513/0294a447-cecb-4180-8531-68617d97e988)
+![sneaker_shop_2](https://github.com/Upendra48/Sneaker_shop_app/assets/122508513/2a050ea8-ca97-47ee-ada8-606533d85958)
